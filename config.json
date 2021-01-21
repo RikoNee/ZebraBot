@@ -1,15 +1,15 @@
 {
-	"BOT_OWNER_ID": "315237321085550604",
-	"BOT_TOKEN": "NTg5MTM1MzkyMzY4NzU0Nzcy.XQPRJw.X8O2YBaNMX0ohWOXVi2cEMCbvjs",
-	"BOT_PREFIX": "-",
-	"FORTNITE_API_KEY": "3a09ac8d-29b0-448c-84ca-75bbbf4977c6",
-    "ADMINID": "573135923550617600",
-	"CLIENT_SECRET": "3hS_Yw4a1P8EJvSHtOejGjgSdKqoCSS3",
-	"WEBSITE_URL": "http://zebrabot.xyz",
-	"BOT": {"ID": "589135392368754772"},
+	"BOT_OWNER_ID": "",
+	"BOT_TOKEN": "",
+	"BOT_PREFIX": "",
+	"FORTNITE_API_KEY": "",
+    "ADMINID": "",
+	"CLIENT_SECRET": "",
+	"WEBSITE_URL": "",
+	"BOT": {"ID": ""},
 	"LAVALINK": {
 		"NODES": [
-		    { "host": "0.0.0.0", "port": 2333, "password": "tigroubg" }
+		    { "host": "0.0.0.0", "port": 2333, "password": "" }
 		],
 		"QUEUES": {}
 	    }
