@@ -1,0 +1,80 @@
+2019-07-03 00:41:02.847  INFO 5873 --- [XNIO-2 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-07-03 00:41:03.024  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"570649567616434206","sessionId":"727b3c3429acf9b39d1307c57c6086c7","event":{"token":"90d894607b90059e","guild_id":"570649567616434206","endpoint":"us-south569.discord.gg:80"}}
+2019-07-03 00:41:03.261  INFO 5873 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: https://youtu.be/SEmyOnyM7Xs
+2019-07-03 00:41:07.670  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAjAIAJ0xpbCBoYXBweSBsaWwgc2FkIC0gRG9uJ3QgV2FsayAobHlyaWNzKQALU2FkIE1vdG9vcmkAAAAAAAOdyAALU0VteU9ueU03WHMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1TRW15T255TTdYcwAHeW91dHViZQAAAAAAAAAA"}
+2019-07-03 00:41:19.634  INFO 5873 --- [XNIO-2 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-07-03 00:41:20.061  INFO 5873 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Lil sad Lil happy
+2019-07-03 00:41:31.113  INFO 5873 --- [XNIO-2 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-07-03 00:41:31.646  INFO 5873 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Lil sad Lil happy
+2019-07-03 00:41:44.481  INFO 5873 --- [XNIO-2 task-16] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-07-03 00:41:45.035  INFO 5873 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: lil sad Lil happy
+2019-07-03 00:41:55.737  INFO 5873 --- [XNIO-2 task-2] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-07-03 00:41:56.315  INFO 5873 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Lil sad Lil happy
+2019-07-03 00:45:04.289  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAggIAHmxpbCBoYXBweSBsaWwgc2FkIC0gbGV0IG1lIGRpZQAKc2FkIGNoyahsbAAAAAAAA19IAAtRaHdsRlJqa1RPZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVFod2xGUmprVE9nAAd5b3V0dWJlAAAAAAAAAAA="}
+2019-07-03 00:48:44.876  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAlQIAMWxpbCBoYXBweSBsaWwgc2FkIC0gbGlsIG51bWIgKGZ0LiBUZWVuIFByZWduYW5jeSkACnNhZCBjaMmobGwAAAAAAAKAoAALM2hLckd6aGZOVGMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0zaEtyR3poZk5UYwAHeW91dHViZQAAAAAAAAAA"}
+2019-07-03 00:49:50.626  INFO 5873 --- [XNIO-2 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-07-03 00:49:51.311  INFO 5873 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: sad songs
+2019-07-03 00:51:28.211  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAfwIAG2xpbCBoYXBweSBsaWwgc2FkIC0gc3Vydml2ZQAKc2FkIGNoyahsbAAAAAAAAlWoAAtiRk05U0xzeEJnbwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWJGTTlTTHN4QmdvAAd5b3V0dWJlAAAAAAAAAAA="}
+2019-07-03 00:54:00.738  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAfwIAG2xpbCBoYXBweSBsaWwgc2FkIC0gc3Vydml2ZQAKc2FkIGNoyahsbAAAAAAAAlWoAAtiRk05U0xzeEJnbwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWJGTTlTTHN4QmdvAAd5b3V0dWJlAAAAAAAAAAA="}
+2019-07-03 00:56:33.268  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAfwIAG2xpbCBoYXBweSBsaWwgc2FkIC0gc3Vydml2ZQAKc2FkIGNoyahsbAAAAAAAAlWoAAtiRk05U0xzeEJnbwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWJGTTlTTHN4QmdvAAd5b3V0dWJlAAAAAAAAAAA="}
+2019-07-03 00:59:06.025  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAfwIAG2xpbCBoYXBweSBsaWwgc2FkIC0gc3Vydml2ZQAKc2FkIGNoyahsbAAAAAAAAlWoAAtiRk05U0xzeEJnbwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWJGTTlTTHN4QmdvAAd5b3V0dWJlAAAAAAAAAAA="}
+2019-07-03 00:59:17.795  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"570649567616434206"}
+2019-07-03 00:59:17.797  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAhAIAG3NhZCBzb25ncyBmb3IgbG9uZWx5IHBlb3BsZQAPdGhlIGJvb3RsZWcgYm95AAAAAAANhPAAC3JaLTMxYXc2Rk9vAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9clotMzFhdzZGT28AB3lvdXR1YmUAAAAAAAAAAA=="}
+2019-07-03 01:14:03.671  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAhAIAG3NhZCBzb25ncyBmb3IgbG9uZWx5IHBlb3BsZQAPdGhlIGJvb3RsZWcgYm95AAAAAAANhPAAC3JaLTMxYXc2Rk9vAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9clotMzFhdzZGT28AB3lvdXR1YmUAAAAAAAAAAA=="}
+2019-07-03 01:28:49.563  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAhAIAG3NhZCBzb25ncyBmb3IgbG9uZWx5IHBlb3BsZQAPdGhlIGJvb3RsZWcgYm95AAAAAAANhPAAC3JaLTMxYXc2Rk9vAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9clotMzFhdzZGT28AB3lvdXR1YmUAAAAAAAAAAA=="}
+2019-07-03 01:43:35.245  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAhAIAG3NhZCBzb25ncyBmb3IgbG9uZWx5IHBlb3BsZQAPdGhlIGJvb3RsZWcgYm95AAAAAAANhPAAC3JaLTMxYXc2Rk9vAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9clotMzFhdzZGT28AB3lvdXR1YmUAAAAAAAAAAA=="}
+2019-07-03 01:58:20.901  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAhAIAG3NhZCBzb25ncyBmb3IgbG9uZWx5IHBlb3BsZQAPdGhlIGJvb3RsZWcgYm95AAAAAAANhPAAC3JaLTMxYXc2Rk9vAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9clotMzFhdzZGT28AB3lvdXR1YmUAAAAAAAAAAA=="}
+2019-07-03 02:13:06.827  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"570649567616434206","track":"QAAAhAIAG3NhZCBzb25ncyBmb3IgbG9uZWx5IHBlb3BsZQAPdGhlIGJvb3RsZWcgYm95AAAAAAANhPAAC3JaLTMxYXc2Rk9vAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9clotMzFhdzZGT28AB3lvdXR1YmUAAAAAAAAAAA=="}
+2019-07-03 02:18:46.504  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"570649567616434206"}
+2019-07-03 05:46:00.504  INFO 5873 --- [XNIO-2 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-07-03 05:46:00.628  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"110373943822540800","sessionId":"727b3c3429acf9b39d1307c57c6086c7","event":{"token":"1ab7f0f6e7c10461","guild_id":"110373943822540800","endpoint":"us-east6.discord.gg:80"}}
+2019-07-03 05:46:01.116  INFO 5873 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: awat boknai
+2019-07-03 05:47:28.763  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"110373943822540800"}
+2019-07-03 15:23:14.101  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:38318 -- CloseStatus[code=1006, reason=]
+2019-07-03 15:23:14.101  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2019-07-03 15:23:14.101  INFO 5873 --- [XNIO-2 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-07-03 15:23:16.484  INFO 5873 --- [XNIO-2 task-8] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:39706
+2019-07-03 15:23:16.489  INFO 5873 --- [XNIO-2 task-8] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-07-03 15:23:16.493  INFO 5873 --- [XNIO-2 task-8] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:39706
+2019-07-03 15:33:23.751  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:39706 -- CloseStatus[code=1006, reason=]
+2019-07-03 15:33:23.751  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2019-07-03 15:33:23.751  INFO 5873 --- [XNIO-2 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-07-03 15:33:25.133  INFO 5873 --- [XNIO-2 task-9] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:54478
+2019-07-03 15:33:25.135  INFO 5873 --- [XNIO-2 task-9] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-07-03 15:33:25.156  INFO 5873 --- [XNIO-2 task-9] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:54478
+2019-07-03 15:35:37.028  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54478 -- CloseStatus[code=1006, reason=]
+2019-07-03 15:35:37.029  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2019-07-03 15:35:37.029  INFO 5873 --- [XNIO-2 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-07-03 15:35:38.388  INFO 5873 --- [XNIO-2 task-10] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:35336
+2019-07-03 15:35:38.390  INFO 5873 --- [XNIO-2 task-10] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-07-03 15:35:38.396  INFO 5873 --- [XNIO-2 task-10] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:35336
+2019-07-03 15:36:19.536  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:35336 -- CloseStatus[code=1006, reason=]
+2019-07-03 15:36:19.537  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2019-07-03 15:36:19.537  INFO 5873 --- [XNIO-2 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-07-03 15:36:21.184  INFO 5873 --- [XNIO-2 task-11] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:39636
+2019-07-03 15:36:21.190  INFO 5873 --- [XNIO-2 task-11] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-07-03 15:36:21.193  INFO 5873 --- [XNIO-2 task-11] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:39636
+2019-07-03 15:56:20.675  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:39636 -- CloseStatus[code=1006, reason=]
+2019-07-03 15:56:20.676  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2019-07-03 15:56:20.676  INFO 5873 --- [XNIO-2 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-07-03 15:56:22.077  INFO 5873 --- [XNIO-2 task-12] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:58904
+2019-07-03 15:56:22.084  INFO 5873 --- [XNIO-2 task-12] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-07-03 15:56:22.085  INFO 5873 --- [XNIO-2 task-12] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:58904
+2019-07-03 16:07:32.910  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58904 -- CloseStatus[code=1006, reason=]
+2019-07-03 16:07:32.910  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2019-07-03 16:07:32.910  INFO 5873 --- [XNIO-2 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-07-03 16:07:34.286  INFO 5873 --- [XNIO-2 task-13] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:56664
+2019-07-03 16:07:34.290  INFO 5873 --- [XNIO-2 task-13] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-07-03 16:07:34.296  INFO 5873 --- [XNIO-2 task-13] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:56664
+2019-07-03 16:09:41.157  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:56664 -- CloseStatus[code=1006, reason=]
+2019-07-03 16:09:41.157  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2019-07-03 16:09:41.158  INFO 5873 --- [XNIO-2 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-07-03 16:10:58.277  INFO 5873 --- [XNIO-2 task-14] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:47278
+2019-07-03 16:10:58.285  INFO 5873 --- [XNIO-2 task-14] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-07-03 16:10:58.287  INFO 5873 --- [XNIO-2 task-14] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:47278
+2019-07-03 16:13:24.840  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:47278 -- CloseStatus[code=1006, reason=]
+2019-07-03 16:13:24.840  INFO 5873 --- [XNIO-2 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2019-07-03 16:13:24.840  INFO 5873 --- [XNIO-2 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-07-03 16:13:26.245  INFO 5873 --- [XNIO-2 task-15] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:59698
+2019-07-03 16:13:26.251  INFO 5873 --- [XNIO-2 task-15] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-07-03 16:13:26.255  INFO 5873 --- [XNIO-2 task-15] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:59698

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<title><%=client.user.username%></title>
+
+<link href="css/style.css" rel="stylesheet">
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="css/one-page-wonder.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+  .desc{
+    
+      padding-left:50px;
+  }
+  table {
+    display:block;
+  font-family: "determination";
+  color: black;;
+  font-size: 20px;
+  border-collapse: collapse;
+ /* background-image: url("https://cdn.glitch.com/54e41532-3b6a-473f-897d-5444c27c0e5a%2FArri%C3%A8re%20plan%20tableau.png?1529401637092");
+*/
+  }
+
+
+td, th {
+    
+    border: 1px solid black;
+    border-radius: 1px;
+}
+  </style>
+</head>
+
+<body>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="/">Accueil</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/commands">Commandes</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="<%= login === 'oui' ? '/profile': '/login' %>"><%=status%></a>
+            </li>
+          <%if(login === 'oui') {%>
+            <li class="nav-item">
+              <a class="nav-link" href="/logout">Se déconnecter</a>
+            </li>
+          <%}%>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  
+      <table>
+    <thead>
+        <tr>
+          <th>Commande</th><br>
+          <th class="desc">Description</th>
+          <th>Modules</th><br>
+        </tr>
+      </thead>
+      <tbody>
+        <%client.commands.forEach(cmd=>{%>
+        <tr>
+          <td><%=cmd.help.name%></td>
+          <td><%=cmd.help.desc || "Aucune description fournie."%></td>
+          <td><%=cmd.help.modules || "Aucun Module fournie."%></td>
+        </tr>
+        <%})%>
+        <tr>
+          
+        </tbody>
+    </table>
+
+    
+    <style type="text/css">
+      .btn:hover, .btn:active, .btn:focus {
+        color: grey !important;
+      }
+    </style>
+  
+  <script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+</html>
